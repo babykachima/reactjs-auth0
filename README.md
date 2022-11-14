@@ -1,8 +1,11 @@
 
 🔥 To run project follow steps below:
+
+Require: You need to account on https://auth0.com/
   * Step 1: Download / clone project -> Run yarn | yarn install
-  * Step 2: Run TailwindCSS: yarn build:css
-  * Step 3: Run yarn start to run project
+  * Step 2: Setup env with your MAIN_URL and CLIENT_ID
+  * Step 3: Run TailwindCSS: yarn build:css
+  * Step 4: Run yarn start to run project
   
 📖 Techs: 
 * ReactJS
